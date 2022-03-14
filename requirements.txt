@@ -1,0 +1,10 @@
+datasets
+keras
+matplotlib
+numpy
+sklearn
+stellargraph
+tensorflow
+transformers
+
+
